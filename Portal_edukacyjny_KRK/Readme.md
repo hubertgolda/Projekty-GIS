@@ -12,7 +12,7 @@ Projekt
 ## Wykorzystane technologie
 - **ArcGIS Pro** – przygotowanie, analiza i wizualizacja danych
 - **ArcGIS Online** - przesyłanie i przechowywanie danych
-- **ArcGIS Experience Builder ** - stworzenie interaktywanego portalu
+- **ArcGIS Experience Builder** - stworzenie interaktywanego portalu
 
 
 
