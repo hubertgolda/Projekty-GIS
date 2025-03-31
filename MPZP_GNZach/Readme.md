@@ -5,7 +5,7 @@ Projekt miał na celu stworzenie bardziej czytelnej i przystępnej wersji Miejsc
 
 ## Źródła danych
 - Dane: [Miejscowy Plan Zagospodarowania Przestrzennego Górka Narodowa Zachód](https://www.bip.krakow.pl/?dok_id=15920)
-- Granice administracyjne: [GIS-Support.pl](https://gis-support.pl/wp-content/uploads/dzielnice_Krakowa.zip)
+- Granice administracyjne: [GIS-Support.pl](https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/)
 - Dodatkowe dane geograficzne: OpenStreetMap
 
 ## Wykorzystane technologie
